@@ -1,0 +1,13 @@
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\bin\Debug\NDPODEV1.exe.config
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\bin\Debug\NDPODEV1.exe
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\bin\Debug\NDPODEV1.pdb
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.csprojAssemblyReference.cache
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.Properties.Resources.resources
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.csproj.GenerateResource.cache
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.exe
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.pdb
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.AnaGiris.resources
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.DoktorGirisi.resources
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.DoktorEkranı.resources
+C:\Users\Yunus\source\repos\NDPODEV1\NDPODEV1\obj\Debug\NDPODEV1.RandevuAl.resources
